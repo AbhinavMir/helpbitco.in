@@ -1,32 +1,52 @@
 module.exports = [
     {
-        owner: 'ElementsProject',
-        repo: 'lightning',
+        owner: 'gakonst',
+        repo: 'ethers-rs',
         type: 'protocol'
     },
     {
-        owner: 'bitcoin',
-        repo: 'bitcoin',
+        owner: 'ethereum',
+        repo: 'go-ethereum',
         type: 'protocol'
     },
     {
-        owner: 'btcpayserver',
-        repo: 'btcpayserver',
+        owner: 'ethereum',
+        repo: 'solidity',
         type: 'payment'
     },
     {
-        owner: 'lightningnetwork',
-        repo: 'lnd',
-        type: 'protocol'
-    },
-    {
-        owner: 'bitcoinj',
-        repo: 'bitcoinj',
+        owner: 'ethereum',
+        repo: 'web3.js',
         type: 'library'
     },
     {
-        owner: 'bluewallet',
-        repo: 'bluewallet',
-        type: 'wallet'
+        owner: 'trufflesuite',
+        repo: 'truffle',
+        type: 'development tool'
+    },
+    {
+        owner: 'openzeppelin',
+        repo: 'openzeppelin-contracts',
+        type: 'smart contracts'
+    },
+    {
+        owner: 'ethers-io',
+        repo: 'ethers.js',
+        type: 'library'
+    },
+    {
+        owner: 'chainlink',
+        repo: 'chainlink',
+        type: 'oracle'
+    },
+    {
+        owner: 'ethereum',
+        repo: 'remix-project',
+        type: 'development tool'
+    },
+    {
+        owner: 'Uniswap',
+        repo: 'uniswap-v2-core',
+        type: 'decentralized exchange'
     }
 ]
