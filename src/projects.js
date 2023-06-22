@@ -15,11 +15,6 @@ module.exports = [
         type: 'payment'
     },
     {
-        owner: 'ethereum',
-        repo: 'web3.js',
-        type: 'library'
-    },
-    {
         owner: 'trufflesuite',
         repo: 'truffle',
         type: 'development tool'
@@ -30,23 +25,8 @@ module.exports = [
         type: 'smart contracts'
     },
     {
-        owner: 'ethers-io',
-        repo: 'ethers.js',
-        type: 'library'
-    },
-    {
-        owner: 'chainlink',
-        repo: 'chainlink',
-        type: 'oracle'
-    },
-    {
         owner: 'ethereum',
         repo: 'remix-project',
         type: 'development tool'
     },
-    {
-        owner: 'Uniswap',
-        repo: 'uniswap-v2-core',
-        type: 'decentralized exchange'
-    }
 ]
